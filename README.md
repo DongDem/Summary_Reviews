@@ -10,56 +10,104 @@ http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf
 https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf
 
 +) ZFNet
+
 https://arxiv.org/abs/1311.2901
+
 +) VGG Net
+
 https://arxiv.org/pdf/1409.1556.pdf
+
 +) SPP Net
+
 https://arxiv.org/abs/1406.4729
+
 +) PReLU-Net
+
 https://arxiv.org/pdf/1502.01852.pdf
+
 +) STN
+
 https://arxiv.org/abs/1506.02025
+
 +) DeepImage
+
 https://arxiv.org/pdf/1501.02876v2.pdf?
+
 +) GoogleNet/Inception-v1
+
 https://arxiv.org/pdf/1409.4842.pdf
+
 +) BN-Inception / Inception-v2
+
 https://arxiv.org/abs/1502.03167
+
 +) Inception-v3
+
 https://arxiv.org/abs/1512.00567
+
 +) Inception-v4
+
 https://arxiv.org/abs/1602.07261
+
 +) Xception
+
 https://arxiv.org/abs/1610.02357
+
 +) MobileNetV1
+
 https://arxiv.org/abs/1704.04861
+
 +) ResNet
+
 https://arxiv.org/abs/1512.03385
+
 +) Pre-Activation ResNet
+
 https://arxiv.org/pdf/1603.05027.pdf
+
 +) RiR
+
 ResNet in ResNet
+
 +) RoR
+
 Residual Networks of Residual Networks
+
 +) Stochastic Depth
+
 https://arxiv.org/abs/1603.09382
+
 +) WRN
+
 https://arxiv.org/abs/1605.07146
+
 +) FractalNet
+
 https://arxiv.org/abs/1605.07648
+
 +) Trimps-Soushen
+
 https://arxiv.org/abs/1605.07648
+
 +) PolyNet
+
 https://arxiv.org/abs/1611.05725
+
 +) ReNeXt
+
 https://arxiv.org/abs/1611.05431
+
 +) DenseNet
+
 https://arxiv.org/abs/1608.06993
+
 +) PyramidNet
+
 https://arxiv.org/abs/1610.02915
 
 2. Object Detection
 +) OverFeat
+
 https://arxiv.org/abs/1312.6229
 +) R-CNN
 https://arxiv.org/abs/1311.2524
