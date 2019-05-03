@@ -1,25 +1,16 @@
 # Summary_Reviews
 My previous Reviews
 1. Image Classification
-+) Le Net
 
-http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf
++) Le Net    http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf
 
-+) AlexNet
++) AlexNet   https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf
 
-https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf
++) ZFNet  https://arxiv.org/abs/1311.2901
 
-+) ZFNet
++) VGG Net  https://arxiv.org/pdf/1409.1556.pdf
 
-https://arxiv.org/abs/1311.2901
-
-+) VGG Net
-
-https://arxiv.org/pdf/1409.1556.pdf
-
-+) SPP Net
-
-https://arxiv.org/abs/1406.4729
++) SPP Net  https://arxiv.org/abs/1406.4729
 
 +) PReLU-Net
 
