@@ -92,6 +92,8 @@ My previous Reviews
 
 +) DCN  https://arxiv.org/pdf/1702.00254.pdf
 
++) https://medium.com/@jonathan_hui/object-detection-series-24d03a12f904
+
 3. Semantic Segmentation
 
 +) FCN https://people.eecs.berkeley.edu/~jonlong/long_shelhamer_fcn.pdf
